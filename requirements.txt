@@ -1,0 +1,8 @@
+smolagents[toolkit,litellm]
+wikipedia-api
+wikipedia
+requests
+python-dotenv
+arize-phoenix
+openinference-instrumentation-litellm
+
